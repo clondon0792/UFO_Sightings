@@ -7,7 +7,7 @@ Data Tools: ECMAScript, JavaScript, Jupyter Notebook, Python and MongoDB
 Software: ES6+, ECMAScript, MongoDB, Python 3.8.3, Visual Studio Code 1.50.0
 
 <p align="center">
-   <img width="400" height="200" src="https://github.com/jacquie0583/UFOs/blob/main/image%201.jpg">
+   <img width="400" height="200" src="https://github.com/clondon0792/UFO_Sightings/blob/main/image%201.jpg">
 </p>  
 
 ##  Overview of the analysis:
@@ -36,7 +36,7 @@ Using JavaScript and HTML, modifications of the code in the index.html file allo
 image 2
 
 <p align="center">
-   <img width="400" height="200" src="https://github.com/jacquie0583/UFOs/blob/main/image%203.png">
+   <img width="400" height="200" src="https://github.com/clondon0792/UFO_Sightings/blob/main/image%202.png">
 </p>  
 
 
@@ -44,7 +44,7 @@ Using JavaScript, the handleClick() function was replaced in your app.js file wi
 
 
 <p align="center">
-   <img width="400" height="200" src="https://github.com/jacquie0583/UFOs/blob/main/image%202.png">
+   <img width="400" height="200" src="https://github.com/clondon0792/UFO_Sightings/blob/main/image%203.png">
 </p> 
 
 **  one drawback of this webpage is the limited amount of sitting offered.
